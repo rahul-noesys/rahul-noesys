@@ -16,7 +16,7 @@ You may reach out to me at rahulsheelavantar@gmail.com</h3>
         <p>• 📚 I’m currently working as <b>Associate React developer at Noesys software PVT LTD, getting my first experience as a developer.</b></p>
         <p>• 📚 Location:- Bengaluru, KA</b></p>
         <p>• ℹ️ Hobbies: <b>Music 🎧 | Tech 👨‍💻 | F1 🏎️</b></p>
-        <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
+        <p>• 💬 Ask me about: <b>Anything, honestly, I like learning new things</b></p>
         <p>• 📫 How to reach me: <b>rahul.s@noesyssoftware.com</b> <b>rahulsheelavantar@gmail.com</b></p>
 </div><br>
 
